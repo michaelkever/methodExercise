@@ -1,0 +1,7 @@
+C:\Users\micha\OneDrive\Desktop\consoleApp1\methodExercise\methodExercise\methodExercise\bin\Debug\methodExercise.exe.config
+C:\Users\micha\OneDrive\Desktop\consoleApp1\methodExercise\methodExercise\methodExercise\bin\Debug\methodExercise.exe
+C:\Users\micha\OneDrive\Desktop\consoleApp1\methodExercise\methodExercise\methodExercise\bin\Debug\methodExercise.pdb
+C:\Users\micha\OneDrive\Desktop\consoleApp1\methodExercise\methodExercise\methodExercise\obj\Debug\methodExercise.csprojAssemblyReference.cache
+C:\Users\micha\OneDrive\Desktop\consoleApp1\methodExercise\methodExercise\methodExercise\obj\Debug\methodExercise.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\consoleApp1\methodExercise\methodExercise\methodExercise\obj\Debug\methodExercise.exe
+C:\Users\micha\OneDrive\Desktop\consoleApp1\methodExercise\methodExercise\methodExercise\obj\Debug\methodExercise.pdb
